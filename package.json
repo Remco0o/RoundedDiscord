@@ -18,8 +18,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@types/node": "^22.10.5",
-    "prettier": "^3.4.2",
-    "replugged": "^4.8.3"
+    "@types/node": "^22.13.1",
+    "prettier": "^3.5.0",
+    "replugged": "^4.8.4"
   }
 }
